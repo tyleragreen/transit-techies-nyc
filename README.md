@@ -6,7 +6,7 @@ Recap by Pranav Badami on [Medium](https://medium.com/@pranavbadami/transittechi
 
 ### Speakers
 - Will Geary [@wgeary](https://twitter.com/wgeary)
-  - How to use Processing & P5.js to build transit visualizations, specifically for TransitFlow.
+  - How to use Processing & P5.js to build transit visualizations, specifically for [TransitFlow](https://github.com/transitland/transitland-processing-animation).
 - Kathryn Killebrew [@Banderkat](https://twitter.com/Banderkat)
   -  Lessons from working on trip routing for [GoPhillyGo](https://gophillygo.org), a trip planning tool for biking, walking, and transit.
   - Slides available [here](https://docs.google.com/presentation/d/14V309-u28W8MhRemHs4KZXh_bdB0ou3sWyiFs6GtUNw/edit#slide=id.p).
