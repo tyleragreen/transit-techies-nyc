@@ -1,5 +1,16 @@
 # Transit Techies NYC
 
+## #2: Second Avenue Segfaults - 7/11/2018
+
+- Will Fisher [@wafisher](https://twitter.com/wafisher), MTA Long Island Rail Road
+  - How to convert LIRR track schematics into a graph to inform passengers of real-time train data.
+- Assel Dmitriyeva, NYU Tandon
+  - Methods for building a microtransit tool, which acts as a destination recommender system for mobility-on-demand services.
+- Mary Buchanan [@Mary_LBee](https://twitter.com/Mary_LBee), TransitCenter
+  - Results from the GTFS-realtime data cleaning (by Neil Freeman [@fitnr](https://twitter.com/fitnr)) to produce the bus report cards for [Bus Turnaround](http://busturnaround.nyc).
+- Alex Hill, David Bromwich, and Josselin Philippe, Motivate
+  - What inspired the building of Bike Inspector, the Motivate app for tracking Citi Bike repair activity, and how it works to validate bike assets improve the flow of work orders.
+
 ## #1: Christening the Code Train - 5/23/2018
 
 Recap by Pranav Badami on [Medium](https://medium.com/@pranavbadami/transittechiesnyc-a-quick-recap-of-the-inaugural-meetup-b7c3a81428f2).
