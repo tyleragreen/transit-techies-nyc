@@ -2,6 +2,9 @@
 
 ## #2: Second Avenue Segfaults - 7/11/2018
 
+Recap by [Pranav Badami](https://twitter.com/Pranav_Badami) on [HackerNoon](https://hackernoon.com/four-projects-improving-transportation-in-new-york-city-905fb4cd8bac).
+
+### Speakers
 - Will Fisher [@wafisher](https://twitter.com/wafisher), MTA Long Island Rail Road
   - How to convert LIRR track schematics into a graph to inform passengers of real-time train data.
 - Assel Dmitriyeva, NYU Tandon
