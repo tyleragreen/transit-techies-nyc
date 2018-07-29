@@ -1,5 +1,9 @@
 # Transit Techies NYC
 
+## #3: `sudo touch third_rail` - 8/29/2018
+
+[RSVP here](https://www.meetup.com/Transit-Techies-NYC/events/252950626/)!
+
 ## #2: Second Avenue Segfaults - 7/11/2018
 
 Recap by [Pranav Badami](https://twitter.com/Pranav_Badami) on [HackerNoon](https://hackernoon.com/four-projects-improving-transportation-in-new-york-city-905fb4cd8bac).
@@ -13,7 +17,7 @@ Recap by [Pranav Badami](https://twitter.com/Pranav_Badami) on [HackerNoon](http
 - Mary Buchanan [@Mary_LBee](https://twitter.com/Mary_LBee), TransitCenter
   - Results from the GTFS-realtime data cleaning (by Neil Freeman [@fitnr](https://twitter.com/fitnr)) to produce the bus report cards for [Bus Turnaround](http://busturnaround.nyc).
 - Alex Hill, David Bromwich, and Josselin Philippe, Motivate
-  - What inspired the building of Bike Inspector, the Motivate app for tracking Citi Bike repair activity, and how it works to validate bike assets improve the flow of work orders.
+  - What inspired the building of Bike Inspector, the Motivate app for tracking Citi Bike repair activity, and how it works to validate bike assets to improve the flow of work orders.
 
 ## #1: Christening the Code Train - 5/23/2018
 
