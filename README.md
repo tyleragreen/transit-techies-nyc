@@ -9,6 +9,7 @@ Recap by [Pranav Badami](https://twitter.com/Pranav_Badami) on [HackerNoon](http
   - How to convert LIRR track schematics into a graph to inform passengers of real-time train data.
 - Assel Dmitriyeva, NYU Tandon
   - Methods for building a microtransit tool, which acts as a destination recommender system for mobility-on-demand services.
+  - Coverage from [C2SMART](http://c2smart.engineering.nyu.edu/2018/07/13/c2smart-student-presents-at-transit-techies-nyc/) at NYU Tandon.
 - Mary Buchanan [@Mary_LBee](https://twitter.com/Mary_LBee), TransitCenter
   - Results from the GTFS-realtime data cleaning (by Neil Freeman [@fitnr](https://twitter.com/fitnr)) to produce the bus report cards for [Bus Turnaround](http://busturnaround.nyc).
 - Alex Hill, David Bromwich, and Josselin Philippe, Motivate
