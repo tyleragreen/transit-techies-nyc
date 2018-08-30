@@ -2,7 +2,15 @@
 
 ## #3: `sudo touch third_rail` - 8/29/2018
 
-[RSVP here](https://www.meetup.com/Transit-Techies-NYC/events/252950626/)!
+Recap by [Michael Zhang](https://twitter.com/mzhang13) on [Medium](https://medium.com/@mzhang13/three-projects-helping-to-build-better-transit-tools-for-the-future-bb3176c0f47b).
+
+### Speakers
+- Kate Chanba [@kchanba](https://twitter.com/kchanba) and David Emory [@martarider](https://twitter.com/martarider)
+  - Design and technical challenges with producing programmatically generated transit schematic maps in [transitive.js](https://github.com/conveyal/transitive.js/)
+- Ray Cha [@weatherpattern](https://twitter.com/weatherpattern)
+  - Getting started developing with open data using the Open Transit Data Toolkit.
+- Noah Greenbaum
+  - How Coord consolidated bike share APIs across the country to create their unified [Bike Share API](https://coord.co/docs/bike) and it can be queried.
 
 ## #2: Second Avenue Segfaults - 7/11/2018
 
