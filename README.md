@@ -6,7 +6,8 @@ Recap by [Michael Zhang](https://twitter.com/mzhang13) on [Medium](https://mediu
 
 ### Speakers
 - Kate Chanba [@kchanba](https://twitter.com/kchanba) and David Emory [@martarider](https://twitter.com/martarider)
-  - Design and technical challenges with producing programmatically generated transit schematic maps in [transitive.js](https://github.com/conveyal/transitive.js/)
+  - Design and technical challenges with producing programmatically generated transit schematic maps in [transitive.js](https://github.com/conveyal/transitive.js/).
+  - Slides available [here](presentations/2018-08-29_ChanbaEmory_transitivejs.pdf).
 - Ray Cha [@weatherpattern](https://twitter.com/weatherpattern)
   - Getting started developing with open data using the Open Transit Data Toolkit.
 - Noah Greenbaum
