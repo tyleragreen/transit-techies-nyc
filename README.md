@@ -12,6 +12,7 @@ Recap by [Michael Zhang](https://twitter.com/mzhang13) on [Medium](https://mediu
   - Getting started developing with open data using the Open Transit Data Toolkit.
 - Noah Greenbaum
   - How Coord consolidated bike share APIs across the country to create their unified [Bike Share API](https://coord.co/docs/bike) and it can be queried.
+  - Slides available [here](presentations/2018-08-29_Greenbaum_Coord.pdf).
 
 ## #2: Second Avenue Segfaults - 7/11/2018
 
