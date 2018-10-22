@@ -1,5 +1,19 @@
 # Transit Techies NYC
 
+## #4: Four the Love of Transit - 10/17/2018
+
+Recap by [Matt Joseph](https://twitter.com/mattjoseph0) on [Medium](https://medium.com/@mattjoseph/recap-transit-techies-nyc-4-four-the-love-of-transit-317b6fcb8a31).
+
+### Speakers
+- Pranav Badami [@Pranav_Badami](https://twitter.com/Pranav_Badami) and Michael Zhang [@mzhang13](https://twitter.com/mzhang13)
+  - How they scraped 6+ months of NJ Transit data for over 100,000+ trains, how you can access it, and some interesting data analysis of the country’s 3rd busiest commuter railway.
+- Candy Chan [@projsubwaynyc](https://twitter.com/projsubwaynyc)
+  - How she built Project Subway, her work documenting and visualizing the 3D space of NYC subway stations.
+- Alex Bell [@Bellspringsteen](https://twitter.com/Bellspringsteen)
+  - Using computer vision to study the amount of time bus stops and bike lanes are blocked on the streets of NYC, specifically by UPS trucks.
+- Kurt Raschke [@kurtraschke](https://twitter.com/kurtraschke), MTA New York City Transit
+  - How MTA implemented TunnelView, which gives NYCT spherical imagery of tracks and station interiors.
+
 ## #3: `sudo touch third_rail` - 8/29/2018
 
 Recap by [Michael Zhang](https://twitter.com/mzhang13) on [Medium](https://medium.com/@mzhang13/three-projects-helping-to-build-better-transit-tools-for-the-future-bb3176c0f47b).
