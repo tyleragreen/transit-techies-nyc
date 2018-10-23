@@ -11,6 +11,7 @@ Recap by [Matt Joseph](https://twitter.com/mattjoseph0) on [Medium](https://medi
   - How she built Project Subway, her work documenting and visualizing the 3D space of NYC subway stations.
 - Alex Bell [@Bellspringsteen](https://twitter.com/Bellspringsteen)
   - Using computer vision to study the amount of time bus stops and bike lanes are blocked on the streets of NYC, specifically by UPS trucks.
+  - Slides available [here](presentations/2018-10-17_Bell_StatusQuoEverythingSucks.pdf).
 - Kurt Raschke [@kurtraschke](https://twitter.com/kurtraschke), MTA New York City Transit
   - How MTA implemented TunnelView, which gives NYCT spherical imagery of tracks and station interiors.
 
