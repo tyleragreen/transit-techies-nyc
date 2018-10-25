@@ -7,13 +7,16 @@ Recap by [Matt Joseph](https://twitter.com/mattjoseph0) on [Medium](https://medi
 ### Speakers
 - Pranav Badami [@Pranav_Badami](https://twitter.com/Pranav_Badami) and Michael Zhang [@mzhang13](https://twitter.com/mzhang13)
   - How they scraped 6+ months of NJ Transit data for over 100,000+ trains, how you can access it, and some interesting data analysis of the country’s 3rd busiest commuter railway.
+  - [Video](https://www.youtube.com/watch?v=-IdTpH_ZvXw)
 - Candy Chan [@projsubwaynyc](https://twitter.com/projsubwaynyc)
   - How she built Project Subway, her work documenting and visualizing the 3D space of NYC subway stations.
+  - [Video](https://www.youtube.com/watch?v=Roc-U1eG5ow)
 - Alex Bell [@Bellspringsteen](https://twitter.com/Bellspringsteen)
   - Using computer vision to study the amount of time bus stops and bike lanes are blocked on the streets of NYC, specifically by UPS trucks.
-  - Slides available [here](presentations/2018-10-17_Bell_StatusQuoEverythingSucks.pdf).
+  - [Slides](presentations/2018-10-17_Bell_StatusQuoEverythingSucks.pdf) | [Video](https://www.youtube.com/watch?v=ZGPltKDUhUU)
 - Kurt Raschke [@kurtraschke](https://twitter.com/kurtraschke), MTA New York City Transit
   - How MTA implemented TunnelView, which gives NYCT spherical imagery of tracks and station interiors.
+  - [Video](https://www.youtube.com/watch?v=JWaIHlogYIc)
 
 ## #3: `sudo touch third_rail` - 8/29/2018
 
