@@ -1,5 +1,9 @@
 # Transit Techies NYC
 
+- [Meetup](https://www.meetup.com/Transit-Techies-NYC/)
+- [YouTube Channel](https://www.youtube.com/channel/UCKSC5WJLFaWQKB0d5BnI6LA)
+- [Call for Speakers](https://goo.gl/forms/yHRxsngEwGvJHQux2)
+
 ## #4: Four the Love of Transit - 10/17/2018
 
 Recap by [Matt Joseph](https://twitter.com/mattjoseph0) on [Medium](https://medium.com/@mattjoseph/recap-transit-techies-nyc-4-four-the-love-of-transit-317b6fcb8a31).
