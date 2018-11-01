@@ -7,7 +7,7 @@ Recap by [Matt Joseph](https://twitter.com/mattjoseph0) on [Medium](https://medi
 ### Speakers
 - Pranav Badami [@Pranav_Badami](https://twitter.com/Pranav_Badami) and Michael Zhang [@mzhang13](https://twitter.com/mzhang13)
   - How they scraped 6+ months of NJ Transit data for over 100,000+ trains, how you can access it, and some interesting data analysis of the country’s 3rd busiest commuter railway.
-  - [Video](https://www.youtube.com/watch?v=-IdTpH_ZvXw)
+  - [Slides](presentations/2018-10-17_BadamiZhang_NJTransit.pdf) | [Video](https://www.youtube.com/watch?v=-IdTpH_ZvXw)
 - Candy Chan [@projsubwaynyc](https://twitter.com/projsubwaynyc)
   - How she built Project Subway, her work documenting and visualizing the 3D space of NYC subway stations.
   - [Video](https://www.youtube.com/watch?v=Roc-U1eG5ow)
